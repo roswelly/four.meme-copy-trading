@@ -2,9 +2,6 @@
 
 **The open-source Four.meme copy trading bot** for BNB Chain. Automatically mirror target wallets on Four.meme and PancakeSwap in real time. Use this **four.meme copy trading bot** to copy trades from chosen wallets or run a **PancakeSwap copy trading bot**. TypeScript and Rust implementations.
 
-
-https://github.com/user-attachments/assets/bf98104a-43c6-4aa4-be1d-76dad6d55179
-
 ## Contact to Dev
 
 For more consulting, feel free to reach out to me
