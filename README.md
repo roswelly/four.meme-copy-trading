@@ -1,17 +1,19 @@
-# Four.meme Copy Trading Bot - PancakeSwap & Four.meme
+# Four.meme Copy Trading Bot – PancakeSwap & Four.meme
 
-A four.meme copy trading bot | pancakeswap copy trading bot. Available in TypeScript and Rust implementations.
+**The open-source Four.meme copy trading bot** for BNB Chain. Automatically mirror target wallets on Four.meme and PancakeSwap in real time. Use this **four.meme copy trading bot** to copy trades from chosen wallets or run a **PancakeSwap copy trading bot**. TypeScript and Rust implementations.
 
-## Prove of Work
 
 https://github.com/user-attachments/assets/bf98104a-43c6-4aa4-be1d-76dad6d55179
 
 ## Contact to Dev
+
+For more consulting, feel free to reach out to me
+
 -[Telegram](https://t.me/roswellecho)
 
-## Overview
+## What is this Four.meme Copy Trading Bot?
 
-This bot monitors target wallets on BNB Chain and automatically mirrors their trades on PancakeSwap and Four.meme. It supports multiple copy wallets with configurable sizing, slippage, and gas controls.
+This **Four.meme copy trading bot** monitors target wallets on BNB Chain and automatically mirrors their trades on PancakeSwap and **Four.meme**. When they buy or sell on Four.meme, your copy wallets execute the same move. It works as both a **four.meme copy trading bot** and a PancakeSwap copy trading bot, with multiple copy wallets, configurable sizing, slippage, and gas.
 
 ### Key Capabilities
 
@@ -23,20 +25,20 @@ This bot monitors target wallets on BNB Chain and automatically mirrors their tr
 - **Gas Optimization**: Smart gas price management
 - **Error Handling**: Robust error handling and retry logic
 
-## ✨ Features
+## Features
 
 ### Core Features
 
-- ✅ WebSocket event subscription for real-time trading
-- ✅ Automatic trade detection and execution
-- ✅ Multi-wallet support with individual settings
-- ✅ PancakeSwap router integration (v2)
-- ✅ Four.meme contract integration
-- ✅ Automatic token approvals
-- ✅ Slippage protection
-- ✅ Gas price management
-- ✅ Comprehensive logging
-- ✅ Error recovery and retry mechanisms
+- WebSocket event subscription for real-time trading
+- Automatic trade detection and execution
+- Multi-wallet support with individual settings
+- PancakeSwap router integration (v2)
+- Four.meme contract integration
+- Automatic token approvals
+- Slippage protection
+- Gas price management
+- Comprehensive logging
+- Error recovery and retry mechanisms
 
 ### Supported Operations
 
@@ -48,10 +50,19 @@ This bot monitors target wallets on BNB Chain and automatically mirrors their tr
 - Token purchase
 - Token sale
 
-## 🏗 Architecture
+### Why use this Four.meme copy trading bot?
+
+- **Free and open source** – no paid subscriptions; run your own Four.meme copy trading bot.
+- **Real-time** – WebSocket events so your four.meme copy trading bot mirrors trades as fast as the chain.
+- **Multi-wallet** – run one Four.meme copy trading bot and copy into several wallets.
+- **Dual DEX** – Four.meme + PancakeSwap in one codebase.
+
+Search terms this repo targets: **four.meme copy trading bot**, **four meme copy trading**, **Four.meme copy trading**, **PancakeSwap copy trading**, **BNB Chain copy trading**.
+
+## Architecture
 
 ```
-BNB-Copy-Trading-Bot/
+Four.meme-Copy-Trading-Bot/
 ├── typescript-bot/           # TypeScript implementation
 │   ├── src/
 │   │   ├── core/            # Core bot logic
@@ -75,7 +86,7 @@ BNB-Copy-Trading-Bot/
 └── README.md               # This file
 ```
 
-## 🚀 Quick Start
+## Quick Start – Run the Four.meme Copy Trading Bot
 
 ### Prerequisites
 
@@ -98,7 +109,7 @@ cd rust-bot
 cargo build --release
 ```
 
-## 📝 TypeScript Bot Setup
+## TypeScript Bot Setup
 
 ### Configuration
 
@@ -152,7 +163,7 @@ npm run pancakeswap
 npm run fourmeme
 ```
 
-## 🔧 Rust Bot Setup
+## Rust Bot Setup
 
 ### Configuration
 
@@ -222,7 +233,7 @@ RUST_LOG=info cargo run --release
 - `100` = 1% slippage
 - `500` = 5% slippage
 
-## 💡 Usage
+## Usage
 
 ### Basic Usage
 
@@ -257,7 +268,7 @@ ENABLE_PANCAKESWAP=true
 ENABLE_FOURMEME=false
 ```
 
-## 🔒 Security Considerations
+## Considerations
 
 ### Important Warnings
 
@@ -283,7 +294,7 @@ ENABLE_FOURMEME=false
 - Consider using hardware wallets for larger amounts
 - Rotate keys regularly
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -326,7 +337,7 @@ LOG_LEVEL=debug npm start
 RUST_LOG=debug cargo run --release
 ```
 
-## 📊 Monitoring
+## Monitoring
 
 ### Log Levels
 
@@ -343,7 +354,7 @@ RUST_LOG=debug cargo run --release
 - Wallet balances
 - Error rates
 
-## 🧪 Testing
+## Testing
 
 ### Running Tests
 
@@ -364,7 +375,7 @@ cargo test
 - Transaction execution
 - Error handling
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -379,11 +390,11 @@ Contributions are welcome! Please follow these steps:
 - TypeScript: Follow existing code style
 - Rust: Run `cargo fmt` before committing
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Ethers.js team for the excellent library
 - Ethers-rs team for the Rust implementation
@@ -391,17 +402,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Four.meme team
 - BNB Chain community
 
-## 📞 Support
+## Support
 
 For issues, questions, or contributions:
 - Open an issue on GitHub
 - Check existing documentation
 - Review troubleshooting section
-
-## ⚠️ Disclaimer
-
-This software is provided as-is for educational and research purposes. Trading cryptocurrencies involves substantial risk. Use at your own risk. The authors are not responsible for any losses incurred.
-
 ---
 
-**Made with ❤️ for the BNB Chain community**
+**Four.meme copy trading bot · Four.meme copy trading · PancakeSwap copy trading · BNB Chain**
+

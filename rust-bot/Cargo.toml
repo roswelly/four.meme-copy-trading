@@ -2,7 +2,7 @@
 name = "bnb-copy-trading-bot-rs"
 version = "1.0.0"
 edition = "2021"
-description = "BNB Chain copy trading bot for PancakeSwap and Four.meme (Rust)"
+description = "Four.meme copy trading bot for BNB Chain (Rust). Mirror target wallets on Four.meme and PancakeSwap."
 license = "MIT"
 
 [dependencies]

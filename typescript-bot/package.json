@@ -1,7 +1,7 @@
 {
-  "name": "bnb-copy-trading-bot-ts",
+  "name": "four-meme-copy-trading-bot",
   "version": "1.0.0",
-  "description": "BNB Chain copy trading bot for PancakeSwap and Four.meme (TypeScript)",
+  "description": "Four.meme copy trading bot for BNB Chain. Mirror target wallets on Four.meme and PancakeSwap. TypeScript.",
   "main": "dist/index.js",
   "scripts": {
     "dev": "tsx watch src/index.ts",
@@ -14,6 +14,14 @@
     "format": "prettier --write src"
   },
   "keywords": [
+    "four.meme copy trading bot",
+    "four meme copy trading",
+    "four.meme copy trading",
+    "4meme copy trading",
+    "four meme bot",
+    "pancakeswap copy trading",
+    "bnb chain copy trading",
+    "meme coin copy trading",
     "binance",
     "bnb-chain",
     "pancakeswap",
