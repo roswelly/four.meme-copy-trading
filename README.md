@@ -1,31 +1,15 @@
-# BNB Copy Trading Bot - PancakeSwap & Four.meme
+# Four.meme Copy Trading Bot - PancakeSwap & Four.meme
 
-A professional copy trading bot for BNB Chain supporting both PancakeSwap and Four.meme DEX platforms. Available in TypeScript and Rust implementations.
+A four.meme copy trading bot | pancakeswap copy trading bot. Available in TypeScript and Rust implementations.
 
 ## Prove of Work
 
 https://github.com/user-attachments/assets/bf98104a-43c6-4aa4-be1d-76dad6d55179
 
 ## Contact to Dev
+-[Telegram](https://t.me/roswellecho)
 
-If you have any questino or feedback, contact me via [telegram](https://t.me/bitship1_1) or whatsapp - (+44 7832607596)
-
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Quick Start](#quick-start)
-- [TypeScript Bot Setup](#typescript-bot-setup)
-- [Rust Bot Setup](#rust-bot-setup)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Security Considerations](#security-considerations)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
-
-## 🎯 Overview
+## Overview
 
 This bot monitors target wallets on BNB Chain and automatically mirrors their trades on PancakeSwap and Four.meme. It supports multiple copy wallets with configurable sizing, slippage, and gas controls.
 
